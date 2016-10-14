@@ -1,0 +1,37 @@
+
+.img_circle {
+  float: left;
+}
+
+div.sidebar {
+display: auto;
+zoom: 1;
+padding: 7px;
+
+body {
+  background-image: url("moscow.jpg")
+    background-color: #cccccc;
+  }
+
+div.container {
+    width: auto;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+    box-sizing: border-box;
+
+}
+
+div.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+
+  }
+    div.projects {
+        background-color: black;
+        color: red;
+        margin: 20px 0 20px 0;
+        padding: 20px;
+      }
